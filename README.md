@@ -2,11 +2,13 @@
 
 Exercício prático realizado para a disciplina Programação Web III do IFSP-São Carlos.
 
+O tema escolhido foi de uma empresa que vende quadros.
+
 Os créditos para as imagens utilizadas no projeto encontra-se no arquivo denominado "creditosImagens.txt".
 
 ## Requisitos:
 
-Desenvolva um site estático para uma empresa. O site deve conter: 
+Desenvolva um site estático para uma empresa (tema livre). O site deve conter: 
 - Uma página de apresentação (home) 
 - Uma página para contatos 
 - Uma página para produtos 
