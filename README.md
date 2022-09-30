@@ -1,6 +1,8 @@
 # Site estático de uma empresa
 
-Exercício prático realizado para a disciplina Programação Web III do IFSP-São Carlos. 
+Exercício prático realizado para a disciplina Programação Web III do IFSP-São Carlos.
+
+Os créditos para as imagens utilizadas no projeto encontra-se no arquivo denominado "creditosImagens.txt".
 
 ## Requisitos:
 
