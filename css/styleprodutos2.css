@@ -1,0 +1,9 @@
+.pagination a{
+    color: black;
+  }
+  
+  .pagination .active a{
+    background-color:  orange;
+    border-color: black;
+  }
+    
